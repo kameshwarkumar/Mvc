@@ -11,6 +11,7 @@
     <MicrosoftAspNetCoreAntiforgeryPackageVersion>2.2.0-preview1-34373</MicrosoftAspNetCoreAntiforgeryPackageVersion>
     <MicrosoftAspNetCoreAuthenticationCookiesPackageVersion>2.2.0-preview1-34373</MicrosoftAspNetCoreAuthenticationCookiesPackageVersion>
     <MicrosoftAspNetCoreAuthenticationCorePackageVersion>2.2.0-preview1-34373</MicrosoftAspNetCoreAuthenticationCorePackageVersion>
+    <MicrosoftAspNetCoreAuthenticationJwtBearerPackageVersion>2.2.0-preview1-34373</MicrosoftAspNetCoreAuthenticationJwtBearerPackageVersion>
     <MicrosoftAspNetCoreAuthenticationPackageVersion>2.2.0-preview1-34373</MicrosoftAspNetCoreAuthenticationPackageVersion>
     <MicrosoftAspNetCoreAuthorizationPolicyPackageVersion>2.2.0-preview1-34373</MicrosoftAspNetCoreAuthorizationPolicyPackageVersion>
     <MicrosoftAspNetCoreBenchmarkRunnerSourcesPackageVersion>2.2.0-preview1-34373</MicrosoftAspNetCoreBenchmarkRunnerSourcesPackageVersion>
@@ -51,6 +52,7 @@
     <MicrosoftDiaSymReaderNativePackageVersion>1.7.0</MicrosoftDiaSymReaderNativePackageVersion>
     <MicrosoftExtensionsCachingMemoryPackageVersion>2.2.0-preview1-34373</MicrosoftExtensionsCachingMemoryPackageVersion>
     <MicrosoftExtensionsClosedGenericMatcherSourcesPackageVersion>2.2.0-preview1-34373</MicrosoftExtensionsClosedGenericMatcherSourcesPackageVersion>
+    <MicrosoftExtensionsConfigurationCommandLinePackageVersion>2.2.0-preview1-34373</MicrosoftExtensionsConfigurationCommandLinePackageVersion>
     <MicrosoftExtensionsConfigurationJsonPackageVersion>2.2.0-preview1-34373</MicrosoftExtensionsConfigurationJsonPackageVersion>
     <MicrosoftExtensionsConfigurationPackageVersion>2.2.0-preview1-34373</MicrosoftExtensionsConfigurationPackageVersion>
     <MicrosoftExtensionsCopyOnWriteDictionarySourcesPackageVersion>2.2.0-preview1-34373</MicrosoftExtensionsCopyOnWriteDictionarySourcesPackageVersion>
