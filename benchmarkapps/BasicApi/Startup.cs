@@ -70,10 +70,11 @@ namespace BasicApi
 
             services
                 .AddMvcCore()
+                .AddAuthorization()
                 .AddJsonFormatters(json => json.ContractResolver = new CamelCasePropertyNamesContractResolver())
                 .AddDataAnnotations();
 
-            services.AddSingleton<PetRepository>(new PetRepository());
+            services.AddSingleton(new PetRepository());
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment hosting)
